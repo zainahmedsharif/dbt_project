@@ -1,0 +1,10 @@
+version 2.0
+sources:
+  - name: staging
+    database: lucky-trail-438114-d0
+    schema: demo_dataset
+
+    tables: 
+      - name: ny_green_taxi
+      - name: ny_yello_taxi
+
